@@ -87,3 +87,4 @@ variable "svc_count" {
 
 variable "ecr_url" {
   description = "ECR Repo connectivity URL"
+}
