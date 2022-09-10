@@ -54,7 +54,7 @@ variable "availability_zones" {
 }
 
 variable "app_port" {
-  default     = "5000"
+  default     = "80"
   description = "portexposed on the docker image"
 }
 
